@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+  <div class="container">
+  <h2>Corona Details</h2>
+  <button type="button" class="btn">News</button>
+  </div>
+  
+  
+<script type="text/javascript">
+    // document.ready function
+    $(function() {
+        // selector has to be . for a class name and # for an ID
+        $('.btn').click(function(e) {
+            e.preventDefault(); // prevent form from reloading page
+            //alert("hiii");
+
+            $.ajax({
+                'url' : 'http://localhost:8080/controller',
+                contentType: "application/json",
+                dataType: "json",
+                'type' : 'GET',
+                domain: '*',
+                'Origin': '*',
+                headers: {
+                    'Access-Control-Allow-Origin': '*'
+                    
+                },
+                beforeSend: function() {
+                   alert(1);
+                },
+                error: function() {
+                   alert('Error');
+                },
+                'success' : function(data) {
+                   
+                        alert('request sent!');
+                   
+                }
+            });
+        });
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+CREATE SCHEMA `university` ;
+create table student (id int(10),student_id varchar(20),status varchar(20),application_date varchar(100),department varchar(100));
+
+ALTER TABLE `university`.`student` 
+CHANGE COLUMN `id` `id` INT(10) NOT NULL ,
+CHANGE COLUMN `student_id` `student_id` VARCHAR(20) NOT NULL ,
+ADD PRIMARY KEY (`id`, `student_id`);
+
+ALTER TABLE `university`.`student` CHANGE COLUMN `id` `id` INT(10) NOT NULL AUTO_INCREMENT ;
+
+insert into student(student_id,status,application_date,department) values("12365","1","2001-04-03","Engineering");
