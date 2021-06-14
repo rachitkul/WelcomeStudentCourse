@@ -1,0 +1,1745 @@
+studentId:5671,course:SCI1010,department:Arts and Sciences
+studentId:8515,course:ENG1010,department:Engineering
+studentId:10605,course:ENG1010,department:Engineering
+studentId:7398,course:BUS1010,department:Business
+studentId:6903,course:SCI1010,department:Arts and Sciences
+studentId:2169,course:SCI1010,department:Arts and Sciences
+studentId:1618,course:BUS1010,department:Business
+studentId:3060,course:SCI1010,department:Arts and Sciences
+studentId:6989,course:ENG1010,department:Engineering
+studentId:9813,course:SCI1010,department:Arts and Sciences
+studentId:2947,course:BUS1010,department:Business
+studentId:7333,course:BUS1010,department:Business
+studentId:1879,course:SCI1010,department:Arts and Sciences
+studentId:5951,course:ENG1010,department:Engineering
+studentId:7341,course:SCI1010,department:Arts and Sciences
+studentId:4450,course:SCI1010,department:Arts and Sciences
+studentId:3775,course:BUS1010,department:Business
+studentId:2239,course:SCI1010,department:Arts and Sciences
+studentId:7877,course:SCI1010,department:Arts and Sciences
+studentId:2881,course:SCI1010,department:Arts and Sciences
+studentId:5646,course:BUS1010,department:Business
+studentId:3697,course:BUS1010,department:Business
+studentId:6021,course:SCI1010,department:Arts and Sciences
+studentId:2091,course:ENG1010,department:Engineering
+studentId:1594,course:ENG1010,department:Engineering
+studentId:10623,course:ENG1010,department:Engineering
+studentId:7219,course:BUS1010,department:Business
+studentId:8258,course:SCI1010,department:Arts and Sciences
+studentId:5074,course:SCI1010,department:Arts and Sciences
+studentId:10229,course:SCI1010,department:Arts and Sciences
+studentId:2478,course:SCI1010,department:Arts and Sciences
+studentId:3727,course:ENG1010,department:Engineering
+studentId:6506,course:ENG1010,department:Engineering
+studentId:4352,course:ENG1010,department:Engineering
+studentId:3782,course:BUS1010,department:Business
+studentId:6113,course:SCI1010,department:Arts and Sciences
+studentId:1617,course:BUS1010,department:Business
+studentId:5933,course:BUS1010,department:Business
+studentId:10363,course:SCI1010,department:Arts and Sciences
+studentId:8349,course:SCI1010,department:Arts and Sciences
+studentId:8493,course:SCI1010,department:Arts and Sciences
+studentId:4268,course:SCI1010,department:Arts and Sciences
+studentId:6381,course:BUS1010,department:Business
+studentId:1991,course:SCI1010,department:Arts and Sciences
+studentId:6433,course:BUS1010,department:Business
+studentId:2532,course:SCI1010,department:Arts and Sciences
+studentId:7405,course:SCI1010,department:Arts and Sciences
+studentId:4080,course:ENG1010,department:Engineering
+studentId:4025,course:BUS1010,department:Business
+studentId:6372,course:BUS1010,department:Business
+studentId:7940,course:SCI1010,department:Arts and Sciences
+studentId:6891,course:BUS1010,department:Business
+studentId:9021,course:BUS1010,department:Business
+studentId:8771,course:ENG1010,department:Engineering
+studentId:9115,course:SCI1010,department:Arts and Sciences
+studentId:4960,course:SCI1010,department:Arts and Sciences
+studentId:8340,course:SCI1010,department:Arts and Sciences
+studentId:9014,course:BUS1010,department:Business
+studentId:3747,course:ENG1010,department:Engineering
+studentId:2767,course:BUS1010,department:Business
+studentId:6887,course:ENG1010,department:Engineering
+studentId:10179,course:ENG1010,department:Engineering
+studentId:5152,course:ENG1010,department:Engineering
+studentId:3768,course:BUS1010,department:Business
+studentId:6849,course:ENG1010,department:Engineering
+studentId:4613,course:BUS1010,department:Business
+studentId:8537,course:ENG1010,department:Engineering
+studentId:9131,course:BUS1010,department:Business
+studentId:1550,course:BUS1010,department:Business
+studentId:9037,course:ENG1010,department:Engineering
+studentId:10783,course:ENG1010,department:Engineering
+studentId:7208,course:BUS1010,department:Business
+studentId:10082,course:ENG1010,department:Engineering
+studentId:9891,course:SCI1010,department:Arts and Sciences
+studentId:4668,course:ENG1010,department:Engineering
+studentId:1214,course:SCI1010,department:Arts and Sciences
+studentId:4978,course:BUS1010,department:Business
+studentId:3357,course:BUS1010,department:Business
+studentId:7824,course:BUS1010,department:Business
+studentId:7276,course:ENG1010,department:Engineering
+studentId:5612,course:ENG1010,department:Engineering
+studentId:4363,course:ENG1010,department:Engineering
+studentId:7801,course:ENG1010,department:Engineering
+studentId:4746,course:ENG1010,department:Engineering
+studentId:8698,course:SCI1010,department:Arts and Sciences
+studentId:2542,course:BUS1010,department:Business
+studentId:8879,course:BUS1010,department:Business
+studentId:8999,course:BUS1010,department:Business
+studentId:3287,course:ENG1010,department:Engineering
+studentId:4881,course:BUS1010,department:Business
+studentId:6185,course:BUS1010,department:Business
+studentId:6758,course:BUS1010,department:Business
+studentId:5295,course:SCI1010,department:Arts and Sciences
+studentId:2538,course:SCI1010,department:Arts and Sciences
+studentId:9075,course:BUS1010,department:Business
+studentId:6570,course:SCI1010,department:Arts and Sciences
+studentId:2053,course:BUS1010,department:Business
+studentId:7881,course:BUS1010,department:Business
+studentId:4925,course:SCI1010,department:Arts and Sciences
+studentId:9250,course:ENG1010,department:Engineering
+studentId:3200,course:SCI1010,department:Arts and Sciences
+studentId:4212,course:BUS1010,department:Business
+studentId:6752,course:BUS1010,department:Business
+studentId:9999,course:BUS1010,department:Business
+studentId:6762,course:ENG1010,department:Engineering
+studentId:6845,course:ENG1010,department:Engineering
+studentId:9731,course:ENG1010,department:Engineering
+studentId:8397,course:ENG1010,department:Engineering
+studentId:5060,course:BUS1010,department:Business
+studentId:5631,course:SCI1010,department:Arts and Sciences
+studentId:9981,course:BUS1010,department:Business
+studentId:6089,course:ENG1010,department:Engineering
+studentId:2308,course:BUS1010,department:Business
+studentId:7914,course:ENG1010,department:Engineering
+studentId:5187,course:BUS1010,department:Business
+studentId:2741,course:ENG1010,department:Engineering
+studentId:5445,course:BUS1010,department:Business
+studentId:1247,course:BUS1010,department:Business
+studentId:5759,course:SCI1010,department:Arts and Sciences
+studentId:2832,course:SCI1010,department:Arts and Sciences
+studentId:2695,course:ENG1010,department:Engineering
+studentId:8375,course:SCI1010,department:Arts and Sciences
+studentId:7073,course:SCI1010,department:Arts and Sciences
+studentId:2612,course:ENG1010,department:Engineering
+studentId:1342,course:ENG1010,department:Engineering
+studentId:6280,course:SCI1010,department:Arts and Sciences
+studentId:9372,course:SCI1010,department:Arts and Sciences
+studentId:5034,course:SCI1010,department:Arts and Sciences
+studentId:4458,course:ENG1010,department:Engineering
+studentId:7892,course:BUS1010,department:Business
+studentId:8334,course:SCI1010,department:Arts and Sciences
+studentId:2541,course:ENG1010,department:Engineering
+studentId:1238,course:SCI1010,department:Arts and Sciences
+studentId:5552,course:BUS1010,department:Business
+studentId:3544,course:SCI1010,department:Arts and Sciences
+studentId:7500,course:BUS1010,department:Business
+studentId:1851,course:BUS1010,department:Business
+studentId:10700,course:ENG1010,department:Engineering
+studentId:2338,course:ENG1010,department:Engineering
+studentId:6670,course:SCI1010,department:Arts and Sciences
+studentId:8923,course:SCI1010,department:Arts and Sciences
+studentId:9678,course:SCI1010,department:Arts and Sciences
+studentId:6052,course:SCI1010,department:Arts and Sciences
+studentId:10828,course:ENG1010,department:Engineering
+studentId:3751,course:ENG1010,department:Engineering
+studentId:8172,course:ENG1010,department:Engineering
+studentId:6616,course:SCI1010,department:Arts and Sciences
+studentId:5248,course:BUS1010,department:Business
+studentId:7387,course:SCI1010,department:Arts and Sciences
+studentId:1507,course:SCI1010,department:Arts and Sciences
+studentId:1350,course:BUS1010,department:Business
+studentId:5901,course:BUS1010,department:Business
+studentId:4922,course:ENG1010,department:Engineering
+studentId:6973,course:BUS1010,department:Business
+studentId:5713,course:SCI1010,department:Arts and Sciences
+studentId:2953,course:BUS1010,department:Business
+studentId:3784,course:SCI1010,department:Arts and Sciences
+studentId:10532,course:SCI1010,department:Arts and Sciences
+studentId:9772,course:ENG1010,department:Engineering
+studentId:2628,course:BUS1010,department:Business
+studentId:7967,course:SCI1010,department:Arts and Sciences
+studentId:1354,course:BUS1010,department:Business
+studentId:9729,course:SCI1010,department:Arts and Sciences
+studentId:1463,course:ENG1010,department:Engineering
+studentId:1750,course:SCI1010,department:Arts and Sciences
+studentId:7422,course:SCI1010,department:Arts and Sciences
+studentId:5929,course:ENG1010,department:Engineering
+studentId:10295,course:SCI1010,department:Arts and Sciences
+studentId:3452,course:BUS1010,department:Business
+studentId:2408,course:ENG1010,department:Engineering
+studentId:9162,course:BUS1010,department:Business
+studentId:8127,course:ENG1010,department:Engineering
+studentId:10607,course:BUS1010,department:Business
+studentId:6198,course:BUS1010,department:Business
+studentId:2013,course:SCI1010,department:Arts and Sciences
+studentId:9936,course:ENG1010,department:Engineering
+studentId:3122,course:BUS1010,department:Business
+studentId:2638,course:ENG1010,department:Engineering
+studentId:9759,course:BUS1010,department:Business
+studentId:5274,course:SCI1010,department:Arts and Sciences
+studentId:10807,course:ENG1010,department:Engineering
+studentId:4429,course:ENG1010,department:Engineering
+studentId:4702,course:BUS1010,department:Business
+studentId:2596,course:SCI1010,department:Arts and Sciences
+studentId:9439,course:ENG1010,department:Engineering
+studentId:10504,course:BUS1010,department:Business
+studentId:8762,course:BUS1010,department:Business
+studentId:7477,course:BUS1010,department:Business
+studentId:9873,course:BUS1010,department:Business
+studentId:2579,course:SCI1010,department:Arts and Sciences
+studentId:9793,course:BUS1010,department:Business
+studentId:5776,course:BUS1010,department:Business
+studentId:3840,course:SCI1010,department:Arts and Sciences
+studentId:5130,course:SCI1010,department:Arts and Sciences
+studentId:3279,course:SCI1010,department:Arts and Sciences
+studentId:3352,course:ENG1010,department:Engineering
+studentId:9042,course:ENG1010,department:Engineering
+studentId:7790,course:ENG1010,department:Engineering
+studentId:1471,course:BUS1010,department:Business
+studentId:7903,course:SCI1010,department:Arts and Sciences
+studentId:2098,course:ENG1010,department:Engineering
+studentId:4795,course:BUS1010,department:Business
+studentId:1710,course:ENG1010,department:Engineering
+studentId:3443,course:ENG1010,department:Engineering
+studentId:5734,course:ENG1010,department:Engineering
+studentId:2814,course:ENG1010,department:Engineering
+studentId:9697,course:BUS1010,department:Business
+studentId:10308,course:SCI1010,department:Arts and Sciences
+studentId:8199,course:ENG1010,department:Engineering
+studentId:10838,course:SCI1010,department:Arts and Sciences
+studentId:3386,course:ENG1010,department:Engineering
+studentId:6879,course:SCI1010,department:Arts and Sciences
+studentId:5560,course:ENG1010,department:Engineering
+studentId:5201,course:ENG1010,department:Engineering
+studentId:3630,course:SCI1010,department:Arts and Sciences
+studentId:10675,course:SCI1010,department:Arts and Sciences
+studentId:9899,course:BUS1010,department:Business
+studentId:1324,course:SCI1010,department:Arts and Sciences
+studentId:6277,course:ENG1010,department:Engineering
+studentId:8934,course:ENG1010,department:Engineering
+studentId:3499,course:BUS1010,department:Business
+studentId:7124,course:SCI1010,department:Arts and Sciences
+studentId:5156,course:SCI1010,department:Arts and Sciences
+studentId:3838,course:BUS1010,department:Business
+studentId:4031,course:ENG1010,department:Engineering
+studentId:4474,course:SCI1010,department:Arts and Sciences
+studentId:6305,course:SCI1010,department:Arts and Sciences
+studentId:10928,course:SCI1010,department:Arts and Sciences
+studentId:3879,course:SCI1010,department:Arts and Sciences
+studentId:4127,course:ENG1010,department:Engineering
+studentId:8769,course:SCI1010,department:Arts and Sciences
+studentId:7122,course:BUS1010,department:Business
+studentId:10573,course:BUS1010,department:Business
+studentId:9846,course:SCI1010,department:Arts and Sciences
+studentId:7937,course:SCI1010,department:Arts and Sciences
+studentId:10376,course:ENG1010,department:Engineering
+studentId:4317,course:ENG1010,department:Engineering
+studentId:7266,course:ENG1010,department:Engineering
+studentId:6368,course:ENG1010,department:Engineering
+studentId:9417,course:ENG1010,department:Engineering
+studentId:3783,course:ENG1010,department:Engineering
+studentId:5180,course:SCI1010,department:Arts and Sciences
+studentId:8754,course:BUS1010,department:Business
+studentId:9011,course:SCI1010,department:Arts and Sciences
+studentId:3856,course:ENG1010,department:Engineering
+studentId:4325,course:SCI1010,department:Arts and Sciences
+studentId:9538,course:ENG1010,department:Engineering
+studentId:3690,course:SCI1010,department:Arts and Sciences
+studentId:5084,course:SCI1010,department:Arts and Sciences
+studentId:6031,course:ENG1010,department:Engineering
+studentId:8651,course:SCI1010,department:Arts and Sciences
+studentId:9692,course:SCI1010,department:Arts and Sciences
+studentId:4391,course:BUS1010,department:Business
+studentId:1915,course:ENG1010,department:Engineering
+studentId:3248,course:BUS1010,department:Business
+studentId:3189,course:ENG1010,department:Engineering
+studentId:8601,course:ENG1010,department:Engineering
+studentId:3276,course:SCI1010,department:Arts and Sciences
+studentId:8707,course:ENG1010,department:Engineering
+studentId:5750,course:SCI1010,department:Arts and Sciences
+studentId:5404,course:SCI1010,department:Arts and Sciences
+studentId:10554,course:ENG1010,department:Engineering
+studentId:6065,course:BUS1010,department:Business
+studentId:5908,course:SCI1010,department:Arts and Sciences
+studentId:8019,course:BUS1010,department:Business
+studentId:4377,course:SCI1010,department:Arts and Sciences
+studentId:7091,course:SCI1010,department:Arts and Sciences
+studentId:7188,course:SCI1010,department:Arts and Sciences
+studentId:7886,course:BUS1010,department:Business
+studentId:2658,course:ENG1010,department:Engineering
+studentId:3582,course:SCI1010,department:Arts and Sciences
+studentId:6527,course:ENG1010,department:Engineering
+studentId:9779,course:BUS1010,department:Business
+studentId:2319,course:ENG1010,department:Engineering
+studentId:2312,course:BUS1010,department:Business
+studentId:1298,course:BUS1010,department:Business
+studentId:10556,course:ENG1010,department:Engineering
+studentId:9787,course:SCI1010,department:Arts and Sciences
+studentId:1883,course:SCI1010,department:Arts and Sciences
+studentId:9568,course:BUS1010,department:Business
+studentId:4180,course:ENG1010,department:Engineering
+studentId:3362,course:ENG1010,department:Engineering
+studentId:7820,course:SCI1010,department:Arts and Sciences
+studentId:10760,course:ENG1010,department:Engineering
+studentId:3967,course:ENG1010,department:Engineering
+studentId:3586,course:BUS1010,department:Business
+studentId:2555,course:ENG1010,department:Engineering
+studentId:7828,course:ENG1010,department:Engineering
+studentId:5127,course:BUS1010,department:Business
+studentId:10407,course:BUS1010,department:Business
+studentId:8078,course:ENG1010,department:Engineering
+studentId:8167,course:SCI1010,department:Arts and Sciences
+studentId:7375,course:ENG1010,department:Engineering
+studentId:10834,course:ENG1010,department:Engineering
+studentId:1549,course:SCI1010,department:Arts and Sciences
+studentId:4276,course:ENG1010,department:Engineering
+studentId:4507,course:ENG1010,department:Engineering
+studentId:3119,course:ENG1010,department:Engineering
+studentId:4178,course:ENG1010,department:Engineering
+studentId:2924,course:ENG1010,department:Engineering
+studentId:2652,course:SCI1010,department:Arts and Sciences
+studentId:9093,course:ENG1010,department:Engineering
+studentId:7758,course:BUS1010,department:Business
+studentId:5185,course:SCI1010,department:Arts and Sciences
+studentId:5936,course:ENG1010,department:Engineering
+studentId:10092,course:BUS1010,department:Business
+studentId:9137,course:ENG1010,department:Engineering
+studentId:6218,course:SCI1010,department:Arts and Sciences
+studentId:7582,course:BUS1010,department:Business
+studentId:8739,course:SCI1010,department:Arts and Sciences
+studentId:8814,course:ENG1010,department:Engineering
+studentId:10406,course:ENG1010,department:Engineering
+studentId:3605,course:SCI1010,department:Arts and Sciences
+studentId:4119,course:ENG1010,department:Engineering
+studentId:9580,course:SCI1010,department:Arts and Sciences
+studentId:9169,course:ENG1010,department:Engineering
+studentId:4660,course:ENG1010,department:Engineering
+studentId:10467,course:BUS1010,department:Business
+studentId:1543,course:BUS1010,department:Business
+studentId:3822,course:SCI1010,department:Arts and Sciences
+studentId:5857,course:BUS1010,department:Business
+studentId:5045,course:BUS1010,department:Business
+studentId:3769,course:BUS1010,department:Business
+studentId:5832,course:BUS1010,department:Business
+studentId:7784,course:BUS1010,department:Business
+studentId:4828,course:BUS1010,department:Business
+studentId:3740,course:ENG1010,department:Engineering
+studentId:2749,course:ENG1010,department:Engineering
+studentId:9139,course:SCI1010,department:Arts and Sciences
+studentId:2840,course:BUS1010,department:Business
+studentId:9570,course:ENG1010,department:Engineering
+studentId:6897,course:ENG1010,department:Engineering
+studentId:6278,course:BUS1010,department:Business
+studentId:6844,course:ENG1010,department:Engineering
+studentId:10690,course:SCI1010,department:Arts and Sciences
+studentId:9639,course:SCI1010,department:Arts and Sciences
+studentId:7460,course:SCI1010,department:Arts and Sciences
+studentId:8912,course:BUS1010,department:Business
+studentId:6984,course:BUS1010,department:Business
+studentId:3154,course:SCI1010,department:Arts and Sciences
+studentId:8213,course:SCI1010,department:Arts and Sciences
+studentId:4295,course:BUS1010,department:Business
+studentId:2341,course:ENG1010,department:Engineering
+studentId:2173,course:ENG1010,department:Engineering
+studentId:4820,course:ENG1010,department:Engineering
+studentId:7241,course:ENG1010,department:Engineering
+studentId:2969,course:ENG1010,department:Engineering
+studentId:7123,course:SCI1010,department:Arts and Sciences
+studentId:10776,course:BUS1010,department:Business
+studentId:3002,course:BUS1010,department:Business
+studentId:4883,course:BUS1010,department:Business
+studentId:5766,course:SCI1010,department:Arts and Sciences
+studentId:5482,course:ENG1010,department:Engineering
+studentId:2437,course:BUS1010,department:Business
+studentId:5461,course:ENG1010,department:Engineering
+studentId:7771,course:SCI1010,department:Arts and Sciences
+studentId:7429,course:SCI1010,department:Arts and Sciences
+studentId:2925,course:SCI1010,department:Arts and Sciences
+studentId:3897,course:ENG1010,department:Engineering
+studentId:4197,course:ENG1010,department:Engineering
+studentId:5487,course:BUS1010,department:Business
+studentId:8413,course:BUS1010,department:Business
+studentId:10260,course:BUS1010,department:Business
+studentId:3289,course:SCI1010,department:Arts and Sciences
+studentId:4108,course:ENG1010,department:Engineering
+studentId:9646,course:ENG1010,department:Engineering
+studentId:10258,course:ENG1010,department:Engineering
+studentId:9491,course:ENG1010,department:Engineering
+studentId:9328,course:SCI1010,department:Arts and Sciences
+studentId:2274,course:ENG1010,department:Engineering
+studentId:10656,course:ENG1010,department:Engineering
+studentId:10267,course:ENG1010,department:Engineering
+studentId:5722,course:BUS1010,department:Business
+studentId:10283,course:ENG1010,department:Engineering
+studentId:9948,course:ENG1010,department:Engineering
+studentId:5415,course:BUS1010,department:Business
+studentId:4410,course:BUS1010,department:Business
+studentId:9175,course:SCI1010,department:Arts and Sciences
+studentId:9051,course:ENG1010,department:Engineering
+studentId:9132,course:SCI1010,department:Arts and Sciences
+studentId:10385,course:ENG1010,department:Engineering
+studentId:3271,course:ENG1010,department:Engineering
+studentId:10718,course:ENG1010,department:Engineering
+studentId:7084,course:ENG1010,department:Engineering
+studentId:3464,course:BUS1010,department:Business
+studentId:3345,course:SCI1010,department:Arts and Sciences
+studentId:2257,course:BUS1010,department:Business
+studentId:10167,course:SCI1010,department:Arts and Sciences
+studentId:5800,course:ENG1010,department:Engineering
+studentId:1960,course:BUS1010,department:Business
+studentId:9702,course:SCI1010,department:Arts and Sciences
+studentId:4338,course:SCI1010,department:Arts and Sciences
+studentId:3595,course:ENG1010,department:Engineering
+studentId:3611,course:SCI1010,department:Arts and Sciences
+studentId:5743,course:BUS1010,department:Business
+studentId:2524,course:ENG1010,department:Engineering
+studentId:10570,course:BUS1010,department:Business
+studentId:4849,course:ENG1010,department:Engineering
+studentId:7890,course:ENG1010,department:Engineering
+studentId:7480,course:ENG1010,department:Engineering
+studentId:7272,course:BUS1010,department:Business
+studentId:4283,course:SCI1010,department:Arts and Sciences
+studentId:6608,course:BUS1010,department:Business
+studentId:5999,course:SCI1010,department:Arts and Sciences
+studentId:10770,course:BUS1010,department:Business
+studentId:7003,course:SCI1010,department:Arts and Sciences
+studentId:7349,course:ENG1010,department:Engineering
+studentId:8282,course:ENG1010,department:Engineering
+studentId:3753,course:ENG1010,department:Engineering
+studentId:6265,course:BUS1010,department:Business
+studentId:1726,course:SCI1010,department:Arts and Sciences
+studentId:7423,course:ENG1010,department:Engineering
+studentId:3516,course:SCI1010,department:Arts and Sciences
+studentId:6678,course:SCI1010,department:Arts and Sciences
+studentId:10017,course:SCI1010,department:Arts and Sciences
+studentId:9562,course:BUS1010,department:Business
+studentId:10488,course:SCI1010,department:Arts and Sciences
+studentId:6876,course:ENG1010,department:Engineering
+studentId:9395,course:SCI1010,department:Arts and Sciences
+studentId:6439,course:BUS1010,department:Business
+studentId:4701,course:BUS1010,department:Business
+studentId:3963,course:SCI1010,department:Arts and Sciences
+studentId:5238,course:BUS1010,department:Business
+studentId:9196,course:ENG1010,department:Engineering
+studentId:2178,course:ENG1010,department:Engineering
+studentId:8517,course:BUS1010,department:Business
+studentId:3444,course:ENG1010,department:Engineering
+studentId:5953,course:BUS1010,department:Business
+studentId:9878,course:BUS1010,department:Business
+studentId:3480,course:BUS1010,department:Business
+studentId:4045,course:SCI1010,department:Arts and Sciences
+studentId:9302,course:ENG1010,department:Engineering
+studentId:4610,course:ENG1010,department:Engineering
+studentId:9610,course:BUS1010,department:Business
+studentId:7240,course:SCI1010,department:Arts and Sciences
+studentId:5280,course:SCI1010,department:Arts and Sciences
+studentId:8973,course:ENG1010,department:Engineering
+studentId:3976,course:SCI1010,department:Arts and Sciences
+studentId:7581,course:BUS1010,department:Business
+studentId:3030,course:SCI1010,department:Arts and Sciences
+studentId:4381,course:BUS1010,department:Business
+studentId:1384,course:ENG1010,department:Engineering
+studentId:4219,course:ENG1010,department:Engineering
+studentId:1847,course:SCI1010,department:Arts and Sciences
+studentId:8256,course:ENG1010,department:Engineering
+studentId:5206,course:BUS1010,department:Business
+studentId:7644,course:ENG1010,department:Engineering
+studentId:9107,course:ENG1010,department:Engineering
+studentId:3801,course:ENG1010,department:Engineering
+studentId:5263,course:SCI1010,department:Arts and Sciences
+studentId:9577,course:ENG1010,department:Engineering
+studentId:9346,course:SCI1010,department:Arts and Sciences
+studentId:7255,course:ENG1010,department:Engineering
+studentId:4417,course:ENG1010,department:Engineering
+studentId:3286,course:SCI1010,department:Arts and Sciences
+studentId:8411,course:SCI1010,department:Arts and Sciences
+studentId:5687,course:ENG1010,department:Engineering
+studentId:4853,course:SCI1010,department:Arts and Sciences
+studentId:7146,course:SCI1010,department:Arts and Sciences
+studentId:8702,course:SCI1010,department:Arts and Sciences
+studentId:4475,course:ENG1010,department:Engineering
+studentId:8417,course:ENG1010,department:Engineering
+studentId:4993,course:SCI1010,department:Arts and Sciences
+studentId:7696,course:ENG1010,department:Engineering
+studentId:3487,course:ENG1010,department:Engineering
+studentId:3260,course:ENG1010,department:Engineering
+studentId:3633,course:ENG1010,department:Engineering
+studentId:6925,course:BUS1010,department:Business
+studentId:3992,course:SCI1010,department:Arts and Sciences
+studentId:8242,course:SCI1010,department:Arts and Sciences
+studentId:4023,course:BUS1010,department:Business
+studentId:7367,course:ENG1010,department:Engineering
+studentId:1535,course:BUS1010,department:Business
+studentId:3488,course:BUS1010,department:Business
+studentId:4920,course:ENG1010,department:Engineering
+studentId:10256,course:SCI1010,department:Arts and Sciences
+studentId:8878,course:BUS1010,department:Business
+studentId:3614,course:SCI1010,department:Arts and Sciences
+studentId:4026,course:BUS1010,department:Business
+studentId:7194,course:ENG1010,department:Engineering
+studentId:1491,course:ENG1010,department:Engineering
+studentId:6132,course:BUS1010,department:Business
+studentId:9837,course:SCI1010,department:Arts and Sciences
+studentId:8394,course:ENG1010,department:Engineering
+studentId:8124,course:SCI1010,department:Arts and Sciences
+studentId:7181,course:ENG1010,department:Engineering
+studentId:1457,course:ENG1010,department:Engineering
+studentId:8000,course:ENG1010,department:Engineering
+studentId:2501,course:SCI1010,department:Arts and Sciences
+studentId:3920,course:SCI1010,department:Arts and Sciences
+studentId:5959,course:SCI1010,department:Arts and Sciences
+studentId:6406,course:BUS1010,department:Business
+studentId:10804,course:BUS1010,department:Business
+studentId:2828,course:SCI1010,department:Arts and Sciences
+studentId:5924,course:ENG1010,department:Engineering
+studentId:10125,course:SCI1010,department:Arts and Sciences
+studentId:5826,course:ENG1010,department:Engineering
+studentId:4635,course:ENG1010,department:Engineering
+studentId:6750,course:SCI1010,department:Arts and Sciences
+studentId:3903,course:ENG1010,department:Engineering
+studentId:5365,course:SCI1010,department:Arts and Sciences
+studentId:10533,course:SCI1010,department:Arts and Sciences
+studentId:6902,course:SCI1010,department:Arts and Sciences
+studentId:1674,course:BUS1010,department:Business
+studentId:9516,course:SCI1010,department:Arts and Sciences
+studentId:7492,course:SCI1010,department:Arts and Sciences
+studentId:2547,course:ENG1010,department:Engineering
+studentId:4836,course:ENG1010,department:Engineering
+studentId:4425,course:BUS1010,department:Business
+studentId:8464,course:ENG1010,department:Engineering
+studentId:7169,course:BUS1010,department:Business
+studentId:8807,course:ENG1010,department:Engineering
+studentId:3383,course:SCI1010,department:Arts and Sciences
+studentId:2914,course:ENG1010,department:Engineering
+studentId:2033,course:BUS1010,department:Business
+studentId:8500,course:SCI1010,department:Arts and Sciences
+studentId:3793,course:ENG1010,department:Engineering
+studentId:6447,course:SCI1010,department:Arts and Sciences
+studentId:7378,course:BUS1010,department:Business
+studentId:10013,course:BUS1010,department:Business
+studentId:2130,course:BUS1010,department:Business
+studentId:6950,course:BUS1010,department:Business
+studentId:3683,course:BUS1010,department:Business
+studentId:10847,course:SCI1010,department:Arts and Sciences
+studentId:4308,course:ENG1010,department:Engineering
+studentId:2007,course:SCI1010,department:Arts and Sciences
+studentId:3290,course:BUS1010,department:Business
+studentId:7415,course:BUS1010,department:Business
+studentId:5290,course:SCI1010,department:Arts and Sciences
+studentId:5760,course:ENG1010,department:Engineering
+studentId:10330,course:BUS1010,department:Business
+studentId:4552,course:SCI1010,department:Arts and Sciences
+studentId:5396,course:ENG1010,department:Engineering
+studentId:2949,course:BUS1010,department:Business
+studentId:2896,course:SCI1010,department:Arts and Sciences
+studentId:4007,course:SCI1010,department:Arts and Sciences
+studentId:8224,course:ENG1010,department:Engineering
+studentId:2619,course:BUS1010,department:Business
+studentId:1282,course:ENG1010,department:Engineering
+studentId:9399,course:SCI1010,department:Arts and Sciences
+studentId:9452,course:SCI1010,department:Arts and Sciences
+studentId:9619,course:ENG1010,department:Engineering
+studentId:3414,course:ENG1010,department:Engineering
+studentId:6524,course:BUS1010,department:Business
+studentId:10853,course:BUS1010,department:Business
+studentId:2724,course:ENG1010,department:Engineering
+studentId:7099,course:SCI1010,department:Arts and Sciences
+studentId:9180,course:SCI1010,department:Arts and Sciences
+studentId:7439,course:SCI1010,department:Arts and Sciences
+studentId:4412,course:SCI1010,department:Arts and Sciences
+studentId:1490,course:ENG1010,department:Engineering
+studentId:3806,course:BUS1010,department:Business
+studentId:10425,course:ENG1010,department:Engineering
+studentId:10919,course:ENG1010,department:Engineering
+studentId:4720,course:SCI1010,department:Arts and Sciences
+studentId:4637,course:SCI1010,department:Arts and Sciences
+studentId:7305,course:BUS1010,department:Business
+studentId:1665,course:BUS1010,department:Business
+studentId:4037,course:BUS1010,department:Business
+studentId:6237,course:BUS1010,department:Business
+studentId:8433,course:BUS1010,department:Business
+studentId:10413,course:SCI1010,department:Arts and Sciences
+studentId:9125,course:ENG1010,department:Engineering
+studentId:3723,course:ENG1010,department:Engineering
+studentId:7927,course:BUS1010,department:Business
+studentId:7902,course:SCI1010,department:Arts and Sciences
+studentId:5055,course:SCI1010,department:Arts and Sciences
+studentId:8808,course:ENG1010,department:Engineering
+studentId:2672,course:BUS1010,department:Business
+studentId:6211,course:BUS1010,department:Business
+studentId:5636,course:BUS1010,department:Business
+studentId:7452,course:ENG1010,department:Engineering
+studentId:3179,course:SCI1010,department:Arts and Sciences
+studentId:6668,course:SCI1010,department:Arts and Sciences
+studentId:9868,course:SCI1010,department:Arts and Sciences
+studentId:4865,course:ENG1010,department:Engineering
+studentId:2048,course:BUS1010,department:Business
+studentId:8609,course:BUS1010,department:Business
+studentId:2261,course:BUS1010,department:Business
+studentId:2205,course:SCI1010,department:Arts and Sciences
+studentId:6135,course:SCI1010,department:Arts and Sciences
+studentId:3073,course:BUS1010,department:Business
+studentId:6709,course:BUS1010,department:Business
+studentId:8709,course:ENG1010,department:Engineering
+studentId:4497,course:SCI1010,department:Arts and Sciences
+studentId:2839,course:ENG1010,department:Engineering
+studentId:8834,course:SCI1010,department:Arts and Sciences
+studentId:6799,course:ENG1010,department:Engineering
+studentId:8592,course:ENG1010,department:Engineering
+studentId:2115,course:ENG1010,department:Engineering
+studentId:3441,course:SCI1010,department:Arts and Sciences
+studentId:4087,course:BUS1010,department:Business
+studentId:2092,course:BUS1010,department:Business
+studentId:3712,course:SCI1010,department:Arts and Sciences
+studentId:7499,course:ENG1010,department:Engineering
+studentId:1217,course:ENG1010,department:Engineering
+studentId:10048,course:ENG1010,department:Engineering
+studentId:5004,course:SCI1010,department:Arts and Sciences
+studentId:10061,course:ENG1010,department:Engineering
+studentId:7966,course:BUS1010,department:Business
+studentId:8637,course:ENG1010,department:Engineering
+studentId:3745,course:ENG1010,department:Engineering
+studentId:2877,course:SCI1010,department:Arts and Sciences
+studentId:10037,course:BUS1010,department:Business
+studentId:1841,course:BUS1010,department:Business
+studentId:3696,course:ENG1010,department:Engineering
+studentId:6304,course:BUS1010,department:Business
+studentId:4432,course:ENG1010,department:Engineering
+studentId:4151,course:BUS1010,department:Business
+studentId:7502,course:ENG1010,department:Engineering
+studentId:5268,course:ENG1010,department:Engineering
+studentId:6797,course:SCI1010,department:Arts and Sciences
+studentId:7848,course:BUS1010,department:Business
+studentId:1933,course:SCI1010,department:Arts and Sciences
+studentId:1729,course:BUS1010,department:Business
+studentId:1822,course:BUS1010,department:Business
+studentId:7916,course:SCI1010,department:Arts and Sciences
+studentId:7486,course:SCI1010,department:Arts and Sciences
+studentId:3305,course:SCI1010,department:Arts and Sciences
+studentId:4470,course:BUS1010,department:Business
+studentId:5543,course:BUS1010,department:Business
+studentId:7741,course:ENG1010,department:Engineering
+studentId:1868,course:ENG1010,department:Engineering
+studentId:7097,course:SCI1010,department:Arts and Sciences
+studentId:5379,course:BUS1010,department:Business
+studentId:6853,course:ENG1010,department:Engineering
+studentId:3078,course:BUS1010,department:Business
+studentId:10079,course:SCI1010,department:Arts and Sciences
+studentId:2756,course:BUS1010,department:Business
+studentId:8002,course:SCI1010,department:Arts and Sciences
+studentId:8300,course:SCI1010,department:Arts and Sciences
+studentId:5312,course:SCI1010,department:Arts and Sciences
+studentId:6885,course:BUS1010,department:Business
+studentId:4247,course:BUS1010,department:Business
+studentId:8389,course:SCI1010,department:Arts and Sciences
+studentId:6939,course:ENG1010,department:Engineering
+studentId:9276,course:SCI1010,department:Arts and Sciences
+studentId:8203,course:SCI1010,department:Arts and Sciences
+studentId:6388,course:BUS1010,department:Business
+studentId:9481,course:SCI1010,department:Arts and Sciences
+studentId:6088,course:BUS1010,department:Business
+studentId:7679,course:BUS1010,department:Business
+studentId:5965,course:ENG1010,department:Engineering
+studentId:3666,course:BUS1010,department:Business
+studentId:1205,course:SCI1010,department:Arts and Sciences
+studentId:3194,course:SCI1010,department:Arts and Sciences
+studentId:6263,course:BUS1010,department:Business
+studentId:10038,course:SCI1010,department:Arts and Sciences
+studentId:9903,course:ENG1010,department:Engineering
+studentId:8652,course:SCI1010,department:Arts and Sciences
+studentId:8319,course:SCI1010,department:Arts and Sciences
+studentId:2759,course:BUS1010,department:Business
+studentId:8755,course:ENG1010,department:Engineering
+studentId:8885,course:SCI1010,department:Arts and Sciences
+studentId:2526,course:BUS1010,department:Business
+studentId:6508,course:ENG1010,department:Engineering
+studentId:9964,course:ENG1010,department:Engineering
+studentId:10374,course:BUS1010,department:Business
+studentId:10252,course:SCI1010,department:Arts and Sciences
+studentId:8358,course:BUS1010,department:Business
+studentId:6183,course:SCI1010,department:Arts and Sciences
+studentId:2020,course:BUS1010,department:Business
+studentId:8810,course:ENG1010,department:Engineering
+studentId:3203,course:ENG1010,department:Engineering
+studentId:6017,course:SCI1010,department:Arts and Sciences
+studentId:8832,course:ENG1010,department:Engineering
+studentId:2968,course:SCI1010,department:Arts and Sciences
+studentId:6015,course:ENG1010,department:Engineering
+studentId:2963,course:ENG1010,department:Engineering
+studentId:3111,course:SCI1010,department:Arts and Sciences
+studentId:4234,course:BUS1010,department:Business
+studentId:8452,course:BUS1010,department:Business
+studentId:9029,course:BUS1010,department:Business
+studentId:6309,course:BUS1010,department:Business
+studentId:5756,course:BUS1010,department:Business
+studentId:5309,course:BUS1010,department:Business
+studentId:7746,course:SCI1010,department:Arts and Sciences
+studentId:7817,course:ENG1010,department:Engineering
+studentId:1532,course:SCI1010,department:Arts and Sciences
+studentId:8473,course:SCI1010,department:Arts and Sciences
+studentId:8255,course:SCI1010,department:Arts and Sciences
+studentId:10475,course:ENG1010,department:Engineering
+studentId:2760,course:ENG1010,department:Engineering
+studentId:8613,course:ENG1010,department:Engineering
+studentId:10663,course:ENG1010,department:Engineering
+studentId:3374,course:ENG1010,department:Engineering
+studentId:2586,course:SCI1010,department:Arts and Sciences
+studentId:5621,course:ENG1010,department:Engineering
+studentId:3419,course:SCI1010,department:Arts and Sciences
+studentId:4831,course:BUS1010,department:Business
+studentId:7291,course:SCI1010,department:Arts and Sciences
+studentId:1953,course:BUS1010,department:Business
+studentId:4974,course:ENG1010,department:Engineering
+studentId:10039,course:BUS1010,department:Business
+studentId:5258,course:BUS1010,department:Business
+studentId:6070,course:ENG1010,department:Engineering
+studentId:8697,course:BUS1010,department:Business
+studentId:7018,course:BUS1010,department:Business
+studentId:6880,course:ENG1010,department:Engineering
+studentId:6143,course:BUS1010,department:Business
+studentId:6270,course:SCI1010,department:Arts and Sciences
+studentId:3743,course:BUS1010,department:Business
+studentId:9932,course:ENG1010,department:Engineering
+studentId:8531,course:SCI1010,department:Arts and Sciences
+studentId:3708,course:SCI1010,department:Arts and Sciences
+studentId:9689,course:SCI1010,department:Arts and Sciences
+studentId:7404,course:SCI1010,department:Arts and Sciences
+studentId:1366,course:SCI1010,department:Arts and Sciences
+studentId:3592,course:SCI1010,department:Arts and Sciences
+studentId:3378,course:SCI1010,department:Arts and Sciences
+studentId:8671,course:ENG1010,department:Engineering
+studentId:9743,course:SCI1010,department:Arts and Sciences
+studentId:6073,course:ENG1010,department:Engineering
+studentId:1414,course:BUS1010,department:Business
+studentId:2272,course:ENG1010,department:Engineering
+studentId:6935,course:BUS1010,department:Business
+studentId:5948,course:ENG1010,department:Engineering
+studentId:9222,course:BUS1010,department:Business
+studentId:2016,course:ENG1010,department:Engineering
+studentId:4222,course:BUS1010,department:Business
+studentId:9651,course:SCI1010,department:Arts and Sciences
+studentId:7957,course:BUS1010,department:Business
+studentId:7897,course:BUS1010,department:Business
+studentId:4431,course:BUS1010,department:Business
+studentId:1260,course:ENG1010,department:Engineering
+studentId:9934,course:BUS1010,department:Business
+studentId:8369,course:BUS1010,department:Business
+studentId:10578,course:SCI1010,department:Arts and Sciences
+studentId:3861,course:SCI1010,department:Arts and Sciences
+studentId:2102,course:SCI1010,department:Arts and Sciences
+studentId:5707,course:BUS1010,department:Business
+studentId:10199,course:ENG1010,department:Engineering
+studentId:1248,course:BUS1010,department:Business
+studentId:3071,course:BUS1010,department:Business
+studentId:3331,course:BUS1010,department:Business
+studentId:7856,course:BUS1010,department:Business
+studentId:2118,course:ENG1010,department:Engineering
+studentId:1739,course:SCI1010,department:Arts and Sciences
+studentId:2944,course:BUS1010,department:Business
+studentId:3369,course:BUS1010,department:Business
+studentId:8894,course:BUS1010,department:Business
+studentId:1614,course:BUS1010,department:Business
+studentId:10913,course:ENG1010,department:Engineering
+studentId:1304,course:ENG1010,department:Engineering
+studentId:10194,course:SCI1010,department:Arts and Sciences
+studentId:4905,course:SCI1010,department:Arts and Sciences
+studentId:10257,course:SCI1010,department:Arts and Sciences
+studentId:3901,course:ENG1010,department:Engineering
+studentId:2931,course:SCI1010,department:Arts and Sciences
+studentId:3547,course:ENG1010,department:Engineering
+studentId:3549,course:SCI1010,department:Arts and Sciences
+studentId:3819,course:BUS1010,department:Business
+studentId:9817,course:ENG1010,department:Engineering
+studentId:2476,course:ENG1010,department:Engineering
+studentId:7076,course:ENG1010,department:Engineering
+studentId:10501,course:SCI1010,department:Arts and Sciences
+studentId:2680,course:BUS1010,department:Business
+studentId:2148,course:BUS1010,department:Business
+studentId:9670,course:SCI1010,department:Arts and Sciences
+studentId:2719,course:BUS1010,department:Business
+studentId:10915,course:BUS1010,department:Business
+studentId:8852,course:BUS1010,department:Business
+studentId:6946,course:ENG1010,department:Engineering
+studentId:10932,course:BUS1010,department:Business
+studentId:10859,course:ENG1010,department:Engineering
+studentId:10865,course:ENG1010,department:Engineering
+studentId:8890,course:BUS1010,department:Business
+studentId:5144,course:SCI1010,department:Arts and Sciences
+studentId:5299,course:ENG1010,department:Engineering
+studentId:1420,course:ENG1010,department:Engineering
+studentId:10461,course:SCI1010,department:Arts and Sciences
+studentId:5193,course:SCI1010,department:Arts and Sciences
+studentId:2285,course:SCI1010,department:Arts and Sciences
+studentId:2588,course:ENG1010,department:Engineering
+studentId:7819,course:BUS1010,department:Business
+studentId:3234,course:SCI1010,department:Arts and Sciences
+studentId:4713,course:ENG1010,department:Engineering
+studentId:3964,course:SCI1010,department:Arts and Sciences
+studentId:4953,course:BUS1010,department:Business
+studentId:8993,course:BUS1010,department:Business
+studentId:6909,course:ENG1010,department:Engineering
+studentId:10131,course:SCI1010,department:Arts and Sciences
+studentId:2348,course:SCI1010,department:Arts and Sciences
+studentId:5638,course:ENG1010,department:Engineering
+studentId:6657,course:ENG1010,department:Engineering
+studentId:9357,course:ENG1010,department:Engineering
+studentId:5757,course:SCI1010,department:Arts and Sciences
+studentId:10901,course:SCI1010,department:Arts and Sciences
+studentId:3583,course:BUS1010,department:Business
+studentId:5913,course:ENG1010,department:Engineering
+studentId:5146,course:ENG1010,department:Engineering
+studentId:8048,course:BUS1010,department:Business
+studentId:7239,course:ENG1010,department:Engineering
+studentId:1712,course:BUS1010,department:Business
+studentId:7905,course:ENG1010,department:Engineering
+studentId:5990,course:SCI1010,department:Arts and Sciences
+studentId:6062,course:ENG1010,department:Engineering
+studentId:9477,course:SCI1010,department:Arts and Sciences
+studentId:2794,course:SCI1010,department:Arts and Sciences
+studentId:5572,course:ENG1010,department:Engineering
+studentId:5142,course:ENG1010,department:Engineering
+studentId:6652,course:SCI1010,department:Arts and Sciences
+studentId:7365,course:SCI1010,department:Arts and Sciences
+studentId:5454,course:ENG1010,department:Engineering
+studentId:9845,course:ENG1010,department:Engineering
+studentId:10033,course:BUS1010,department:Business
+studentId:10522,course:BUS1010,department:Business
+studentId:4374,course:ENG1010,department:Engineering
+studentId:4611,course:BUS1010,department:Business
+studentId:5172,course:BUS1010,department:Business
+studentId:10169,course:BUS1010,department:Business
+studentId:8267,course:SCI1010,department:Arts and Sciences
+studentId:3062,course:ENG1010,department:Engineering
+studentId:1636,course:ENG1010,department:Engineering
+studentId:9872,course:ENG1010,department:Engineering
+studentId:1326,course:ENG1010,department:Engineering
+studentId:1903,course:SCI1010,department:Arts and Sciences
+studentId:2471,course:SCI1010,department:Arts and Sciences
+studentId:9806,course:ENG1010,department:Engineering
+studentId:5137,course:ENG1010,department:Engineering
+studentId:6825,course:SCI1010,department:Arts and Sciences
+studentId:7674,course:SCI1010,department:Arts and Sciences
+studentId:9401,course:BUS1010,department:Business
+studentId:3007,course:BUS1010,department:Business
+studentId:10938,course:BUS1010,department:Business
+studentId:7609,course:ENG1010,department:Engineering
+studentId:10410,course:BUS1010,department:Business
+studentId:6227,course:ENG1010,department:Engineering
+studentId:6056,course:ENG1010,department:Engineering
+studentId:4162,course:SCI1010,department:Arts and Sciences
+studentId:3975,course:SCI1010,department:Arts and Sciences
+studentId:6637,course:ENG1010,department:Engineering
+studentId:5088,course:ENG1010,department:Engineering
+studentId:9130,course:ENG1010,department:Engineering
+studentId:4297,course:BUS1010,department:Business
+studentId:4873,course:SCI1010,department:Arts and Sciences
+studentId:2332,course:BUS1010,department:Business
+studentId:9734,course:BUS1010,department:Business
+studentId:6339,course:ENG1010,department:Engineering
+studentId:6296,course:BUS1010,department:Business
+studentId:5793,course:SCI1010,department:Arts and Sciences
+studentId:1719,course:ENG1010,department:Engineering
+studentId:4950,course:SCI1010,department:Arts and Sciences
+studentId:2220,course:BUS1010,department:Business
+studentId:5546,course:BUS1010,department:Business
+studentId:8236,course:ENG1010,department:Engineering
+studentId:5711,course:ENG1010,department:Engineering
+studentId:3730,course:ENG1010,department:Engineering
+studentId:8279,course:ENG1010,department:Engineering
+studentId:7331,course:SCI1010,department:Arts and Sciences
+studentId:8347,course:BUS1010,department:Business
+studentId:2715,course:SCI1010,department:Arts and Sciences
+studentId:8117,course:SCI1010,department:Arts and Sciences
+studentId:3991,course:ENG1010,department:Engineering
+studentId:9241,course:ENG1010,department:Engineering
+studentId:4264,course:ENG1010,department:Engineering
+studentId:5656,course:BUS1010,department:Business
+studentId:7548,course:SCI1010,department:Arts and Sciences
+studentId:8715,course:ENG1010,department:Engineering
+studentId:2425,course:ENG1010,department:Engineering
+studentId:9027,course:SCI1010,department:Arts and Sciences
+studentId:10043,course:ENG1010,department:Engineering
+studentId:7670,course:BUS1010,department:Business
+studentId:1811,course:BUS1010,department:Business
+studentId:3353,course:SCI1010,department:Arts and Sciences
+studentId:3070,course:SCI1010,department:Arts and Sciences
+studentId:2062,course:BUS1010,department:Business
+studentId:9591,course:BUS1010,department:Business
+studentId:7264,course:BUS1010,department:Business
+studentId:1777,course:SCI1010,department:Arts and Sciences
+studentId:1697,course:ENG1010,department:Engineering
+studentId:9797,course:BUS1010,department:Business
+studentId:7838,course:BUS1010,department:Business
+studentId:2533,course:SCI1010,department:Arts and Sciences
+studentId:10381,course:ENG1010,department:Engineering
+studentId:4426,course:ENG1010,department:Engineering
+studentId:7603,course:SCI1010,department:Arts and Sciences
+studentId:8646,course:BUS1010,department:Business
+studentId:10546,course:BUS1010,department:Business
+studentId:2337,course:BUS1010,department:Business
+studentId:5689,course:BUS1010,department:Business
+studentId:10866,course:ENG1010,department:Engineering
+studentId:2286,course:BUS1010,department:Business
+studentId:8858,course:SCI1010,department:Arts and Sciences
+studentId:1286,course:ENG1010,department:Engineering
+studentId:1780,course:ENG1010,department:Engineering
+studentId:4547,course:SCI1010,department:Arts and Sciences
+studentId:3348,course:ENG1010,department:Engineering
+studentId:1373,course:ENG1010,department:Engineering
+studentId:8620,course:SCI1010,department:Arts and Sciences
+studentId:2880,course:SCI1010,department:Arts and Sciences
+studentId:10910,course:SCI1010,department:Arts and Sciences
+studentId:4398,course:ENG1010,department:Engineering
+studentId:7915,course:ENG1010,department:Engineering
+studentId:5259,course:BUS1010,department:Business
+studentId:9314,course:BUS1010,department:Business
+studentId:6075,course:ENG1010,department:Engineering
+studentId:3985,course:BUS1010,department:Business
+studentId:4282,course:ENG1010,department:Engineering
+studentId:9687,course:BUS1010,department:Business
+studentId:2687,course:SCI1010,department:Arts and Sciences
+studentId:6446,course:BUS1010,department:Business
+studentId:8975,course:ENG1010,department:Engineering
+studentId:6479,course:SCI1010,department:Arts and Sciences
+studentId:2534,course:BUS1010,department:Business
+studentId:3039,course:BUS1010,department:Business
+studentId:5218,course:SCI1010,department:Arts and Sciences
+studentId:6558,course:SCI1010,department:Arts and Sciences
+studentId:4383,course:BUS1010,department:Business
+studentId:9025,course:BUS1010,department:Business
+studentId:2412,course:SCI1010,department:Arts and Sciences
+studentId:4892,course:BUS1010,department:Business
+studentId:4671,course:BUS1010,department:Business
+studentId:6097,course:SCI1010,department:Arts and Sciences
+studentId:3351,course:ENG1010,department:Engineering
+studentId:5347,course:ENG1010,department:Engineering
+studentId:8935,course:BUS1010,department:Business
+studentId:8746,course:BUS1010,department:Business
+studentId:4305,course:SCI1010,department:Arts and Sciences
+studentId:1772,course:ENG1010,department:Engineering
+studentId:3015,course:BUS1010,department:Business
+studentId:10494,course:SCI1010,department:Arts and Sciences
+studentId:10924,course:ENG1010,department:Engineering
+studentId:4118,course:ENG1010,department:Engineering
+studentId:10722,course:SCI1010,department:Arts and Sciences
+studentId:1770,course:SCI1010,department:Arts and Sciences
+studentId:5975,course:ENG1010,department:Engineering
+studentId:6953,course:BUS1010,department:Business
+studentId:8055,course:ENG1010,department:Engineering
+studentId:5014,course:ENG1010,department:Engineering
+studentId:1941,course:BUS1010,department:Business
+studentId:3282,course:BUS1010,department:Business
+studentId:7569,course:ENG1010,department:Engineering
+studentId:1612,course:ENG1010,department:Engineering
+studentId:5261,course:BUS1010,department:Business
+studentId:3492,course:BUS1010,department:Business
+studentId:10141,course:SCI1010,department:Arts and Sciences
+studentId:1668,course:SCI1010,department:Arts and Sciences
+studentId:3836,course:SCI1010,department:Arts and Sciences
+studentId:7522,course:SCI1010,department:Arts and Sciences
+studentId:9389,course:SCI1010,department:Arts and Sciences
+studentId:9630,course:BUS1010,department:Business
+studentId:2785,course:SCI1010,department:Arts and Sciences
+studentId:8876,course:BUS1010,department:Business
+studentId:9366,course:BUS1010,department:Business
+studentId:1302,course:SCI1010,department:Arts and Sciences
+studentId:8818,course:ENG1010,department:Engineering
+studentId:5745,course:SCI1010,department:Arts and Sciences
+studentId:2593,course:SCI1010,department:Arts and Sciences
+studentId:9354,course:BUS1010,department:Business
+studentId:8940,course:BUS1010,department:Business
+studentId:6753,course:BUS1010,department:Business
+studentId:7449,course:BUS1010,department:Business
+studentId:9605,course:BUS1010,department:Business
+studentId:10534,course:ENG1010,department:Engineering
+studentId:6255,course:BUS1010,department:Business
+studentId:8677,course:SCI1010,department:Arts and Sciences
+studentId:6690,course:ENG1010,department:Engineering
+studentId:10296,course:ENG1010,department:Engineering
+studentId:6896,course:SCI1010,department:Arts and Sciences
+studentId:7697,course:BUS1010,department:Business
+studentId:7693,course:ENG1010,department:Engineering
+studentId:3321,course:SCI1010,department:Arts and Sciences
+studentId:8943,course:BUS1010,department:Business
+studentId:1724,course:SCI1010,department:Arts and Sciences
+studentId:4322,course:BUS1010,department:Business
+studentId:5334,course:SCI1010,department:Arts and Sciences
+studentId:8478,course:ENG1010,department:Engineering
+studentId:1937,course:SCI1010,department:Arts and Sciences
+studentId:1856,course:BUS1010,department:Business
+studentId:9920,course:BUS1010,department:Business
+studentId:4951,course:BUS1010,department:Business
+studentId:8353,course:SCI1010,department:Arts and Sciences
+studentId:9941,course:BUS1010,department:Business
+studentId:8426,course:ENG1010,department:Engineering
+studentId:8192,course:ENG1010,department:Engineering
+studentId:9297,course:SCI1010,department:Arts and Sciences
+studentId:10364,course:SCI1010,department:Arts and Sciences
+studentId:4414,course:SCI1010,department:Arts and Sciences
+studentId:1735,course:SCI1010,department:Arts and Sciences
+studentId:6151,course:ENG1010,department:Engineering
+studentId:5714,course:BUS1010,department:Business
+studentId:3131,course:BUS1010,department:Business
+studentId:2329,course:BUS1010,department:Business
+studentId:1382,course:ENG1010,department:Engineering
+studentId:6350,course:BUS1010,department:Business
+studentId:7227,course:BUS1010,department:Business
+studentId:6655,course:SCI1010,department:Arts and Sciences
+studentId:10875,course:BUS1010,department:Business
+studentId:7363,course:SCI1010,department:Arts and Sciences
+studentId:3913,course:SCI1010,department:Arts and Sciences
+studentId:4906,course:BUS1010,department:Business
+studentId:7412,course:BUS1010,department:Business
+studentId:4329,course:BUS1010,department:Business
+studentId:7864,course:SCI1010,department:Arts and Sciences
+studentId:1929,course:ENG1010,department:Engineering
+studentId:4272,course:BUS1010,department:Business
+studentId:10662,course:SCI1010,department:Arts and Sciences
+studentId:5715,course:ENG1010,department:Engineering
+studentId:7768,course:BUS1010,department:Business
+studentId:9578,course:BUS1010,department:Business
+studentId:5401,course:ENG1010,department:Engineering
+studentId:5939,course:SCI1010,department:Arts and Sciences
+studentId:2065,course:ENG1010,department:Engineering
+studentId:3447,course:SCI1010,department:Arts and Sciences
+studentId:6471,course:ENG1010,department:Engineering
+studentId:2477,course:BUS1010,department:Business
+studentId:5625,course:BUS1010,department:Business
+studentId:7503,course:SCI1010,department:Arts and Sciences
+studentId:3493,course:SCI1010,department:Arts and Sciences
+studentId:5477,course:SCI1010,department:Arts and Sciences
+studentId:6068,course:ENG1010,department:Engineering
+studentId:10307,course:BUS1010,department:Business
+studentId:1443,course:BUS1010,department:Business
+studentId:6645,course:BUS1010,department:Business
+studentId:6344,course:BUS1010,department:Business
+studentId:7280,course:BUS1010,department:Business
+studentId:6915,course:ENG1010,department:Engineering
+studentId:2313,course:ENG1010,department:Engineering
+studentId:8905,course:SCI1010,department:Arts and Sciences
+studentId:1487,course:BUS1010,department:Business
+studentId:9805,course:SCI1010,department:Arts and Sciences
+studentId:7002,course:BUS1010,department:Business
+studentId:8694,course:BUS1010,department:Business
+studentId:2660,course:SCI1010,department:Arts and Sciences
+studentId:3657,course:ENG1010,department:Engineering
+studentId:2214,course:SCI1010,department:Arts and Sciences
+studentId:9536,course:SCI1010,department:Arts and Sciences
+studentId:9470,course:BUS1010,department:Business
+studentId:8727,course:BUS1010,department:Business
+studentId:2390,course:SCI1010,department:Arts and Sciences
+studentId:5307,course:ENG1010,department:Engineering
+studentId:1920,course:SCI1010,department:Arts and Sciences
+studentId:8949,course:BUS1010,department:Business
+studentId:1359,course:SCI1010,department:Arts and Sciences
+studentId:6032,course:BUS1010,department:Business
+studentId:6649,course:ENG1010,department:Engineering
+studentId:6000,course:SCI1010,department:Arts and Sciences
+studentId:5592,course:SCI1010,department:Arts and Sciences
+studentId:2236,course:BUS1010,department:Business
+studentId:7005,course:ENG1010,department:Engineering
+studentId:3100,course:BUS1010,department:Business
+studentId:10746,course:ENG1010,department:Engineering
+studentId:2774,course:ENG1010,department:Engineering
+studentId:10893,course:SCI1010,department:Arts and Sciences
+studentId:8198,course:SCI1010,department:Arts and Sciences
+studentId:4142,course:SCI1010,department:Arts and Sciences
+studentId:9705,course:ENG1010,department:Engineering
+studentId:3098,course:SCI1010,department:Arts and Sciences
+studentId:8542,course:BUS1010,department:Business
+studentId:1949,course:BUS1010,department:Business
+studentId:7075,course:SCI1010,department:Arts and Sciences
+studentId:7762,course:BUS1010,department:Business
+studentId:4779,course:BUS1010,department:Business
+studentId:2104,course:BUS1010,department:Business
+studentId:3571,course:SCI1010,department:Arts and Sciences
+studentId:3433,course:SCI1010,department:Arts and Sciences
+studentId:4008,course:ENG1010,department:Engineering
+studentId:2445,course:SCI1010,department:Arts and Sciences
+studentId:7281,course:SCI1010,department:Arts and Sciences
+studentId:2284,course:SCI1010,department:Arts and Sciences
+studentId:10712,course:BUS1010,department:Business
+studentId:3984,course:SCI1010,department:Arts and Sciences
+studentId:9901,course:BUS1010,department:Business
+studentId:7471,course:SCI1010,department:Arts and Sciences
+studentId:4706,course:ENG1010,department:Engineering
+studentId:5008,course:SCI1010,department:Arts and Sciences
+studentId:8628,course:ENG1010,department:Engineering
+studentId:2564,course:ENG1010,department:Engineering
+studentId:10367,course:ENG1010,department:Engineering
+studentId:10672,course:ENG1010,department:Engineering
+studentId:7430,course:SCI1010,department:Arts and Sciences
+studentId:10165,course:BUS1010,department:Business
+studentId:3986,course:SCI1010,department:Arts and Sciences
+studentId:5462,course:ENG1010,department:Engineering
+studentId:10583,course:ENG1010,department:Engineering
+studentId:10375,course:ENG1010,department:Engineering
+studentId:8237,course:BUS1010,department:Business
+studentId:9503,course:BUS1010,department:Business
+studentId:10030,course:BUS1010,department:Business
+studentId:5633,course:ENG1010,department:Engineering
+studentId:2727,course:SCI1010,department:Arts and Sciences
+studentId:7350,course:BUS1010,department:Business
+studentId:2562,course:BUS1010,department:Business
+studentId:4483,course:ENG1010,department:Engineering
+studentId:8696,course:SCI1010,department:Arts and Sciences
+studentId:4526,course:ENG1010,department:Engineering
+studentId:1430,course:SCI1010,department:Arts and Sciences
+studentId:1645,course:SCI1010,department:Arts and Sciences
+studentId:8212,course:ENG1010,department:Engineering
+studentId:2361,course:SCI1010,department:Arts and Sciences
+studentId:10417,course:BUS1010,department:Business
+studentId:1256,course:BUS1010,department:Business
+studentId:5420,course:BUS1010,department:Business
+studentId:7687,course:BUS1010,department:Business
+studentId:10118,course:ENG1010,department:Engineering
+studentId:4717,course:ENG1010,department:Engineering
+studentId:2383,course:ENG1010,department:Engineering
+studentId:9487,course:SCI1010,department:Arts and Sciences
+studentId:5061,course:SCI1010,department:Arts and Sciences
+studentId:7796,course:ENG1010,department:Engineering
+studentId:1591,course:BUS1010,department:Business
+studentId:8395,course:SCI1010,department:Arts and Sciences
+studentId:8684,course:BUS1010,department:Business
+studentId:5819,course:SCI1010,department:Arts and Sciences
+studentId:9953,course:BUS1010,department:Business
+studentId:3431,course:ENG1010,department:Engineering
+studentId:3790,course:BUS1010,department:Business
+studentId:1755,course:BUS1010,department:Business
+studentId:3172,course:SCI1010,department:Arts and Sciences
+studentId:2181,course:BUS1010,department:Business
+studentId:10342,course:ENG1010,department:Engineering
+studentId:8089,course:BUS1010,department:Business
+studentId:3205,course:BUS1010,department:Business
+studentId:3355,course:BUS1010,department:Business
+studentId:10098,course:ENG1010,department:Engineering
+studentId:10763,course:BUS1010,department:Business
+studentId:6931,course:SCI1010,department:Arts and Sciences
+studentId:10765,course:ENG1010,department:Engineering
+studentId:2708,course:BUS1010,department:Business
+studentId:6353,course:ENG1010,department:Engineering
+studentId:5874,course:ENG1010,department:Engineering
+studentId:2788,course:ENG1010,department:Engineering
+studentId:2858,course:ENG1010,department:Engineering
+studentId:4056,course:ENG1010,department:Engineering
+studentId:6190,course:BUS1010,department:Business
+studentId:5868,course:SCI1010,department:Arts and Sciences
+studentId:8293,course:BUS1010,department:Business
+studentId:8031,course:SCI1010,department:Arts and Sciences
+studentId:10146,course:BUS1010,department:Business
+studentId:5667,course:SCI1010,department:Arts and Sciences
+studentId:1682,course:BUS1010,department:Business
+studentId:3958,course:ENG1010,department:Engineering
+studentId:5584,course:SCI1010,department:Arts and Sciences
+studentId:8415,course:SCI1010,department:Arts and Sciences
+studentId:10022,course:SCI1010,department:Arts and Sciences
+studentId:10139,course:SCI1010,department:Arts and Sciences
+studentId:10581,course:BUS1010,department:Business
+studentId:1331,course:BUS1010,department:Business
+studentId:10550,course:BUS1010,department:Business
+studentId:10287,course:ENG1010,department:Engineering
+studentId:7063,course:ENG1010,department:Engineering
+studentId:4120,course:BUS1010,department:Business
+studentId:1791,course:ENG1010,department:Engineering
+studentId:4758,course:SCI1010,department:Arts and Sciences
+studentId:6276,course:BUS1010,department:Business
+studentId:6415,course:ENG1010,department:Engineering
+studentId:4895,course:SCI1010,department:Arts and Sciences
+studentId:10085,course:BUS1010,department:Business
+studentId:8605,course:SCI1010,department:Arts and Sciences
+studentId:2991,course:ENG1010,department:Engineering
+studentId:4355,course:BUS1010,department:Business
+studentId:7636,course:SCI1010,department:Arts and Sciences
+studentId:6730,course:SCI1010,department:Arts and Sciences
+studentId:7231,course:ENG1010,department:Engineering
+studentId:3051,course:SCI1010,department:Arts and Sciences
+studentId:3502,course:ENG1010,department:Engineering
+studentId:4754,course:BUS1010,department:Business
+studentId:10102,course:ENG1010,department:Engineering
+studentId:2688,course:SCI1010,department:Arts and Sciences
+studentId:2212,course:BUS1010,department:Business
+studentId:5354,course:ENG1010,department:Engineering
+studentId:5525,course:ENG1010,department:Engineering
+studentId:4825,course:ENG1010,department:Engineering
+studentId:4773,course:ENG1010,department:Engineering
+studentId:1652,course:ENG1010,department:Engineering
+studentId:7821,course:ENG1010,department:Engineering
+studentId:1227,course:SCI1010,department:Arts and Sciences
+studentId:5083,course:ENG1010,department:Engineering
+studentId:1429,course:SCI1010,department:Arts and Sciences
+studentId:10810,course:ENG1010,department:Engineering
+studentId:9488,course:SCI1010,department:Arts and Sciences
+studentId:2957,course:ENG1010,department:Engineering
+studentId:7750,course:SCI1010,department:Arts and Sciences
+studentId:8840,course:SCI1010,department:Arts and Sciences
+studentId:7478,course:BUS1010,department:Business
+studentId:2569,course:ENG1010,department:Engineering
+studentId:3536,course:SCI1010,department:Arts and Sciences
+studentId:8440,course:SCI1010,department:Arts and Sciences
+studentId:6674,course:BUS1010,department:Business
+studentId:5231,course:ENG1010,department:Engineering
+studentId:7631,course:ENG1010,department:Engineering
+studentId:10745,course:SCI1010,department:Arts and Sciences
+studentId:8781,course:SCI1010,department:Arts and Sciences
+studentId:6362,course:BUS1010,department:Business
+studentId:10902,course:ENG1010,department:Engineering
+studentId:7668,course:SCI1010,department:Arts and Sciences
+studentId:9985,course:SCI1010,department:Arts and Sciences
+studentId:4477,course:ENG1010,department:Engineering
+studentId:4334,course:ENG1010,department:Engineering
+studentId:3240,course:BUS1010,department:Business
+studentId:6598,course:BUS1010,department:Business
+studentId:4161,course:BUS1010,department:Business
+studentId:6932,course:ENG1010,department:Engineering
+studentId:6454,course:SCI1010,department:Arts and Sciences
+studentId:9528,course:SCI1010,department:Arts and Sciences
+studentId:1827,course:ENG1010,department:Engineering
+studentId:2734,course:BUS1010,department:Business
+studentId:2023,course:SCI1010,department:Arts and Sciences
+studentId:10087,course:ENG1010,department:Engineering
+studentId:1557,course:SCI1010,department:Arts and Sciences
+studentId:4104,course:SCI1010,department:Arts and Sciences
+studentId:4884,course:ENG1010,department:Engineering
+studentId:5849,course:ENG1010,department:Engineering
+studentId:7606,course:ENG1010,department:Engineering
+studentId:8004,course:SCI1010,department:Arts and Sciences
+studentId:4938,course:BUS1010,department:Business
+studentId:10333,course:BUS1010,department:Business
+studentId:2485,course:SCI1010,department:Arts and Sciences
+studentId:2452,course:ENG1010,department:Engineering
+studentId:2521,course:ENG1010,department:Engineering
+studentId:1884,course:ENG1010,department:Engineering
+studentId:2025,course:SCI1010,department:Arts and Sciences
+studentId:7621,course:BUS1010,department:Business
+studentId:7064,course:ENG1010,department:Engineering
+studentId:1313,course:ENG1010,department:Engineering
+studentId:9104,course:BUS1010,department:Business
+studentId:9353,course:BUS1010,department:Business
+studentId:5896,course:SCI1010,department:Arts and Sciences
+studentId:3576,course:SCI1010,department:Arts and Sciences
+studentId:4084,course:ENG1010,department:Engineering
+studentId:9703,course:ENG1010,department:Engineering
+studentId:10897,course:SCI1010,department:Arts and Sciences
+studentId:4284,course:ENG1010,department:Engineering
+studentId:3760,course:ENG1010,department:Engineering
+studentId:5029,course:ENG1010,department:Engineering
+studentId:2164,course:ENG1010,department:Engineering
+studentId:6244,course:SCI1010,department:Arts and Sciences
+studentId:4531,course:BUS1010,department:Business
+studentId:1958,course:ENG1010,department:Engineering
+studentId:10076,course:SCI1010,department:Arts and Sciences
+studentId:2851,course:ENG1010,department:Engineering
+studentId:2901,course:ENG1010,department:Engineering
+studentId:5062,course:ENG1010,department:Engineering
+studentId:4984,course:BUS1010,department:Business
+studentId:5085,course:SCI1010,department:Arts and Sciences
+studentId:8188,course:SCI1010,department:Arts and Sciences
+studentId:2729,course:BUS1010,department:Business
+studentId:9423,course:BUS1010,department:Business
+studentId:9416,course:SCI1010,department:Arts and Sciences
+studentId:9836,course:SCI1010,department:Arts and Sciences
+studentId:2763,course:SCI1010,department:Arts and Sciences
+studentId:2807,course:BUS1010,department:Business
+studentId:7823,course:BUS1010,department:Business
+studentId:7055,course:BUS1010,department:Business
+studentId:10619,course:SCI1010,department:Arts and Sciences
+studentId:9431,course:ENG1010,department:Engineering
+studentId:1220,course:ENG1010,department:Engineering
+studentId:1932,course:ENG1010,department:Engineering
+studentId:3678,course:BUS1010,department:Business
+studentId:9939,course:BUS1010,department:Business
+studentId:6114,course:SCI1010,department:Arts and Sciences
+studentId:10618,course:SCI1010,department:Arts and Sciences
+studentId:10432,course:ENG1010,department:Engineering
+studentId:2494,course:SCI1010,department:Arts and Sciences
+studentId:2782,course:SCI1010,department:Arts and Sciences
+studentId:10595,course:ENG1010,department:Engineering
+studentId:2493,course:BUS1010,department:Business
+studentId:5545,course:ENG1010,department:Engineering
+studentId:6962,course:BUS1010,department:Business
+studentId:1642,course:SCI1010,department:Arts and Sciences
+studentId:6297,course:BUS1010,department:Business
+studentId:5472,course:SCI1010,department:Arts and Sciences
+studentId:6676,course:SCI1010,department:Arts and Sciences
+studentId:5601,course:SCI1010,department:Arts and Sciences
+studentId:5716,course:ENG1010,department:Engineering
+studentId:9057,course:SCI1010,department:Arts and Sciences
+studentId:2416,course:SCI1010,department:Arts and Sciences
+studentId:5735,course:SCI1010,department:Arts and Sciences
+studentId:4493,course:ENG1010,department:Engineering
+studentId:1267,course:SCI1010,department:Arts and Sciences
+studentId:6597,course:BUS1010,department:Business
+studentId:8018,course:ENG1010,department:Engineering
+studentId:1436,course:ENG1010,department:Engineering
+studentId:3752,course:ENG1010,department:Engineering
+studentId:7132,course:ENG1010,department:Engineering
+studentId:6542,course:ENG1010,department:Engineering
+studentId:9857,course:BUS1010,department:Business
+studentId:8576,course:SCI1010,department:Arts and Sciences
+studentId:3898,course:ENG1010,department:Engineering
+studentId:5635,course:SCI1010,department:Arts and Sciences
+studentId:3434,course:SCI1010,department:Arts and Sciences
+studentId:5823,course:BUS1010,department:Business
+studentId:3315,course:BUS1010,department:Business
+studentId:5239,course:BUS1010,department:Business
+studentId:1347,course:ENG1010,department:Engineering
+studentId:5630,course:SCI1010,department:Arts and Sciences
+studentId:2810,course:ENG1010,department:Engineering
+studentId:9422,course:ENG1010,department:Engineering
+studentId:10640,course:BUS1010,department:Business
+studentId:3895,course:BUS1010,department:Business
+studentId:8816,course:ENG1010,department:Engineering
+studentId:3867,course:SCI1010,department:Arts and Sciences
+studentId:7327,course:ENG1010,department:Engineering
+studentId:8186,course:BUS1010,department:Business
+studentId:8969,course:BUS1010,department:Business
+studentId:8665,course:BUS1010,department:Business
+studentId:3578,course:BUS1010,department:Business
+studentId:1386,course:SCI1010,department:Arts and Sciences
+studentId:4382,course:ENG1010,department:Engineering
+studentId:8527,course:ENG1010,department:Engineering
+studentId:3979,course:BUS1010,department:Business
+studentId:7778,course:SCI1010,department:Arts and Sciences
+studentId:4385,course:ENG1010,department:Engineering
+studentId:10404,course:ENG1010,department:Engineering
+studentId:9239,course:BUS1010,department:Business
+studentId:2578,course:SCI1010,department:Arts and Sciences
+studentId:4723,course:SCI1010,department:Arts and Sciences
+studentId:6411,course:ENG1010,department:Engineering
+studentId:3652,course:SCI1010,department:Arts and Sciences
+studentId:10403,course:BUS1010,department:Business
+studentId:1277,course:BUS1010,department:Business
+studentId:2075,course:BUS1010,department:Business
+studentId:3280,course:ENG1010,department:Engineering
+studentId:8724,course:ENG1010,department:Engineering
+studentId:9640,course:ENG1010,department:Engineering
+studentId:5961,course:SCI1010,department:Arts and Sciences
+studentId:2543,course:ENG1010,department:Engineering
+studentId:7808,course:SCI1010,department:Arts and Sciences
+studentId:10527,course:SCI1010,department:Arts and Sciences
+studentId:3407,course:BUS1010,department:Business
+studentId:3607,course:SCI1010,department:Arts and Sciences
+studentId:9556,course:ENG1010,department:Engineering
+studentId:6483,course:SCI1010,department:Arts and Sciences
+studentId:10492,course:SCI1010,department:Arts and Sciences
+studentId:6197,course:BUS1010,department:Business
+studentId:8792,course:SCI1010,department:Arts and Sciences
+studentId:2167,course:SCI1010,department:Arts and Sciences
+studentId:8427,course:BUS1010,department:Business
+studentId:10635,course:BUS1010,department:Business
+studentId:7620,course:SCI1010,department:Arts and Sciences
+studentId:5237,course:ENG1010,department:Engineering
+studentId:7253,course:ENG1010,department:Engineering
+studentId:8780,course:ENG1010,department:Engineering
+studentId:7912,course:SCI1010,department:Arts and Sciences
+studentId:3181,course:BUS1010,department:Business
+studentId:5736,course:SCI1010,department:Arts and Sciences
+studentId:1892,course:ENG1010,department:Engineering
+studentId:10790,course:BUS1010,department:Business
+studentId:1527,course:SCI1010,department:Arts and Sciences
+studentId:6320,course:BUS1010,department:Business
+studentId:1103,course:SCI1010,department:Arts and Sciences
+studentId:8782,course:SCI1010,department:Arts and Sciences
+studentId:4337,course:BUS1010,department:Business
+studentId:8519,course:ENG1010,department:Engineering
+studentId:10397,course:BUS1010,department:Business
+studentId:9405,course:ENG1010,department:Engineering
+studentId:8168,course:ENG1010,department:Engineering
+studentId:5046,course:ENG1010,department:Engineering
+studentId:2050,course:ENG1010,department:Engineering
+studentId:10485,course:ENG1010,department:Engineering
+studentId:10121,course:BUS1010,department:Business
+studentId:4991,course:BUS1010,department:Business
+studentId:8693,course:BUS1010,department:Business
+studentId:1449,course:BUS1010,department:Business
+studentId:5840,course:BUS1010,department:Business
+studentId:5241,course:ENG1010,department:Engineering
+studentId:5316,course:ENG1010,department:Engineering
+studentId:7596,course:SCI1010,department:Arts and Sciences
+studentId:8841,course:ENG1010,department:Engineering
+studentId:1853,course:BUS1010,department:Business
+studentId:8372,course:SCI1010,department:Arts and Sciences
+studentId:8316,course:BUS1010,department:Business
+studentId:7343,course:ENG1010,department:Engineering
+studentId:9983,course:BUS1010,department:Business
+studentId:8020,course:ENG1010,department:Engineering
+studentId:10400,course:ENG1010,department:Engineering
+studentId:7428,course:BUS1010,department:Business
+studentId:5809,course:BUS1010,department:Business
+studentId:4364,course:ENG1010,department:Engineering
+studentId:8639,course:BUS1010,department:Business
+studentId:5911,course:SCI1010,department:Arts and Sciences
+studentId:5380,course:BUS1010,department:Business
+studentId:6389,course:ENG1010,department:Engineering
+studentId:1760,course:SCI1010,department:Arts and Sciences
+studentId:5282,course:BUS1010,department:Business
+studentId:1273,course:BUS1010,department:Business
+studentId:2546,course:BUS1010,department:Business
+studentId:10493,course:SCI1010,department:Arts and Sciences
+studentId:8461,course:SCI1010,department:Arts and Sciences
+studentId:7426,course:SCI1010,department:Arts and Sciences
+studentId:2966,course:BUS1010,department:Business
+studentId:5351,course:BUS1010,department:Business
+studentId:8668,course:SCI1010,department:Arts and Sciences
+studentId:10152,course:ENG1010,department:Engineering
+studentId:8458,course:ENG1010,department:Engineering
+studentId:9915,course:ENG1010,department:Engineering
+studentId:8983,course:ENG1010,department:Engineering
+studentId:4631,course:BUS1010,department:Business
+studentId:8057,course:ENG1010,department:Engineering
+studentId:6016,course:BUS1010,department:Business
+studentId:5435,course:ENG1010,department:Engineering
+studentId:6818,course:BUS1010,department:Business
+studentId:9627,course:SCI1010,department:Arts and Sciences
+studentId:5287,course:ENG1010,department:Engineering
+studentId:6323,course:BUS1010,department:Business
+studentId:7545,course:ENG1010,department:Engineering
+studentId:9666,course:SCI1010,department:Arts and Sciences
+studentId:6566,course:BUS1010,department:Business
+studentId:2297,course:SCI1010,department:Arts and Sciences
+studentId:4362,course:ENG1010,department:Engineering
+studentId:1281,course:BUS1010,department:Business
+studentId:8309,course:SCI1010,department:Arts and Sciences
+studentId:5861,course:SCI1010,department:Arts and Sciences
+studentId:5900,course:ENG1010,department:Engineering
+studentId:5429,course:ENG1010,department:Engineering
+studentId:7737,course:ENG1010,department:Engineering
+studentId:9172,course:ENG1010,department:Engineering
+studentId:4218,course:SCI1010,department:Arts and Sciences
+studentId:8800,course:ENG1010,department:Engineering
+studentId:2879,course:BUS1010,department:Business
+studentId:4845,course:BUS1010,department:Business
+studentId:9126,course:SCI1010,department:Arts and Sciences
+studentId:10462,course:SCI1010,department:Arts and Sciences
+studentId:7190,course:ENG1010,department:Engineering
+studentId:6260,course:SCI1010,department:Arts and Sciences
+studentId:7393,course:SCI1010,department:Arts and Sciences
+studentId:4850,course:SCI1010,department:Arts and Sciences
+studentId:3919,course:BUS1010,department:Business
+studentId:7859,course:SCI1010,department:Arts and Sciences
+studentId:1202,course:ENG1010,department:Engineering
+studentId:8383,course:SCI1010,department:Arts and Sciences
+studentId:1826,course:ENG1010,department:Engineering
+studentId:3188,course:BUS1010,department:Business
+studentId:3671,course:SCI1010,department:Arts and Sciences
+studentId:7689,course:ENG1010,department:Engineering
+studentId:3936,course:ENG1010,department:Engineering
+studentId:6045,course:BUS1010,department:Business
+studentId:6266,course:SCI1010,department:Arts and Sciences
+studentId:9590,course:BUS1010,department:Business
+studentId:9968,course:BUS1010,department:Business
+studentId:7893,course:ENG1010,department:Engineering
+studentId:1226,course:BUS1010,department:Business
+studentId:1239,course:ENG1010,department:Engineering
+studentId:3356,course:SCI1010,department:Arts and Sciences
+studentId:6698,course:BUS1010,department:Business
+studentId:8029,course:SCI1010,department:Arts and Sciences
+studentId:8954,course:SCI1010,department:Arts and Sciences
+studentId:5284,course:BUS1010,department:Business
+studentId:8329,course:BUS1010,department:Business
+studentId:4047,course:SCI1010,department:Arts and Sciences
+studentId:5604,course:ENG1010,department:Engineering
+studentId:2677,course:BUS1010,department:Business
+studentId:1335,course:SCI1010,department:Arts and Sciences
+studentId:1252,course:ENG1010,department:Engineering
+studentId:3463,course:SCI1010,department:Arts and Sciences
+studentId:3171,course:SCI1010,department:Arts and Sciences
+studentId:1971,course:ENG1010,department:Engineering
+studentId:8614,course:SCI1010,department:Arts and Sciences
+studentId:9707,course:ENG1010,department:Engineering
+studentId:10144,course:ENG1010,department:Engineering
+studentId:7316,course:BUS1010,department:Business
+studentId:5549,course:BUS1010,department:Business
+studentId:2508,course:ENG1010,department:Engineering
+studentId:9525,course:SCI1010,department:Arts and Sciences
+studentId:2303,course:ENG1010,department:Engineering
+studentId:5471,course:ENG1010,department:Engineering
+studentId:1244,course:ENG1010,department:Engineering
+studentId:1994,course:SCI1010,department:Arts and Sciences
+studentId:5501,course:SCI1010,department:Arts and Sciences
+studentId:10253,course:ENG1010,department:Engineering
+studentId:4184,course:BUS1010,department:Business
+studentId:2080,course:ENG1010,department:Engineering
+studentId:5956,course:ENG1010,department:Engineering
+studentId:6777,course:ENG1010,department:Engineering
+studentId:10080,course:SCI1010,department:Arts and Sciences
+studentId:8189,course:BUS1010,department:Business
+studentId:5754,course:BUS1010,department:Business
+studentId:4003,course:ENG1010,department:Engineering
+studentId:2492,course:BUS1010,department:Business
+studentId:10529,course:SCI1010,department:Arts and Sciences
+studentId:4737,course:ENG1010,department:Engineering
+studentId:2733,course:ENG1010,department:Engineering
+studentId:6680,course:SCI1010,department:Arts and Sciences
+studentId:6646,course:SCI1010,department:Arts and Sciences
+studentId:9742,course:ENG1010,department:Engineering
+studentId:7653,course:BUS1010,department:Business
+studentId:2454,course:SCI1010,department:Arts and Sciences
+studentId:6402,course:BUS1010,department:Business
+studentId:8099,course:ENG1010,department:Engineering
+studentId:10857,course:SCI1010,department:Arts and Sciences
+studentId:9489,course:BUS1010,department:Business
+studentId:4371,course:SCI1010,department:Arts and Sciences
+studentId:8777,course:ENG1010,department:Engineering
+studentId:7454,course:BUS1010,department:Business
+studentId:8619,course:BUS1010,department:Business
+studentId:1810,course:ENG1010,department:Engineering
+studentId:10198,course:ENG1010,department:Engineering
+studentId:2822,course:ENG1010,department:Engineering
+studentId:1814,course:ENG1010,department:Engineering
+studentId:2216,course:SCI1010,department:Arts and Sciences
+studentId:5952,course:BUS1010,department:Business
+studentId:8442,course:BUS1010,department:Business
+studentId:3659,course:BUS1010,department:Business
+studentId:1746,course:BUS1010,department:Business
+studentId:6694,course:SCI1010,department:Arts and Sciences
+studentId:3780,course:BUS1010,department:Business
+studentId:7211,course:SCI1010,department:Arts and Sciences
+studentId:5497,course:BUS1010,department:Business
+studentId:8942,course:SCI1010,department:Arts and Sciences
+studentId:5378,course:BUS1010,department:Business
+studentId:8572,course:SCI1010,department:Arts and Sciences
+studentId:6605,course:SCI1010,department:Arts and Sciences
+studentId:4943,course:BUS1010,department:Business
+studentId:4482,course:ENG1010,department:Engineering
+studentId:4460,course:BUS1010,department:Business
+studentId:4002,course:ENG1010,department:Engineering
+studentId:10584,course:SCI1010,department:Arts and Sciences
+studentId:2234,course:BUS1010,department:Business
+studentId:4786,course:BUS1010,department:Business
+studentId:9502,course:SCI1010,department:Arts and Sciences
+studentId:3946,course:ENG1010,department:Engineering
+studentId:2069,course:SCI1010,department:Arts and Sciences
+studentId:9202,course:ENG1010,department:Engineering
+studentId:10841,course:ENG1010,department:Engineering
+studentId:1516,course:SCI1010,department:Arts and Sciences
+studentId:1778,course:SCI1010,department:Arts and Sciences
+studentId:1823,course:ENG1010,department:Engineering
+studentId:10317,course:SCI1010,department:Arts and Sciences
+studentId:1327,course:SCI1010,department:Arts and Sciences
+studentId:10060,course:SCI1010,department:Arts and Sciences
+studentId:9120,course:SCI1010,department:Arts and Sciences
+studentId:2902,course:ENG1010,department:Engineering
+studentId:4344,course:SCI1010,department:Arts and Sciences
+studentId:3337,course:BUS1010,department:Business
+studentId:4390,course:ENG1010,department:Engineering
+studentId:3273,course:SCI1010,department:Arts and Sciences
+studentId:4807,course:BUS1010,department:Business
+studentId:8139,course:ENG1010,department:Engineering
+studentId:8214,course:SCI1010,department:Arts and Sciences
+studentId:3530,course:BUS1010,department:Business
+studentId:3641,course:SCI1010,department:Arts and Sciences
+studentId:7348,course:ENG1010,department:Engineering
+studentId:6360,course:ENG1010,department:Engineering
+studentId:8881,course:ENG1010,department:Engineering
+studentId:7969,course:BUS1010,department:Business
+studentId:1685,course:BUS1010,department:Business
+studentId:1352,course:BUS1010,department:Business
+studentId:10204,course:BUS1010,department:Business
+studentId:10750,course:SCI1010,department:Arts and Sciences
+studentId:6322,course:ENG1010,department:Engineering
+studentId:4302,course:ENG1010,department:Engineering
+studentId:8533,course:SCI1010,department:Arts and Sciences
+studentId:3505,course:ENG1010,department:Engineering
+studentId:6778,course:SCI1010,department:Arts and Sciences
+studentId:1460,course:ENG1010,department:Engineering
+studentId:7442,course:BUS1010,department:Business
+studentId:4358,course:ENG1010,department:Engineering
+studentId:8648,course:BUS1010,department:Business
+studentId:3226,course:SCI1010,department:Arts and Sciences
+studentId:4995,course:BUS1010,department:Business
+studentId:5192,course:BUS1010,department:Business
+studentId:3109,course:SCI1010,department:Arts and Sciences
+studentId:9548,course:BUS1010,department:Business
+studentId:9245,course:BUS1010,department:Business
+studentId:9671,course:ENG1010,department:Engineering
+studentId:2636,course:ENG1010,department:Engineering
+studentId:2442,course:ENG1010,department:Engineering
+studentId:5683,course:BUS1010,department:Business
+studentId:7008,course:ENG1010,department:Engineering
+studentId:4116,course:ENG1010,department:Engineering
+studentId:7033,course:BUS1010,department:Business
+studentId:9305,course:SCI1010,department:Arts and Sciences
+studentId:7447,course:BUS1010,department:Business
+studentId:5791,course:SCI1010,department:Arts and Sciences
+studentId:5212,course:ENG1010,department:Engineering
+studentId:1345,course:BUS1010,department:Business
+studentId:3063,course:ENG1010,department:Engineering
+studentId:2083,course:SCI1010,department:Arts and Sciences
+studentId:10482,course:SCI1010,department:Arts and Sciences
+studentId:7024,course:ENG1010,department:Engineering
+studentId:9309,course:BUS1010,department:Business
+studentId:2145,course:BUS1010,department:Business
+studentId:4042,course:SCI1010,department:Arts and Sciences
+studentId:9290,course:SCI1010,department:Arts and Sciences
+studentId:10177,course:SCI1010,department:Arts and Sciences
+studentId:3388,course:BUS1010,department:Business
+studentId:2797,course:ENG1010,department:Engineering
+studentId:1451,course:SCI1010,department:Arts and Sciences
+studentId:10787,course:ENG1010,department:Engineering
+studentId:3056,course:ENG1010,department:Engineering
+studentId:6423,course:SCI1010,department:Arts and Sciences
+studentId:7676,course:SCI1010,department:Arts and Sciences
+studentId:6475,course:ENG1010,department:Engineering
+studentId:4522,course:BUS1010,department:Business
+studentId:9329,course:SCI1010,department:Arts and Sciences
+studentId:3916,course:SCI1010,department:Arts and Sciences
+studentId:7058,course:SCI1010,department:Arts and Sciences
+studentId:2131,course:ENG1010,department:Engineering
+studentId:7706,course:ENG1010,department:Engineering
+studentId:8747,course:BUS1010,department:Business
+studentId:2627,course:BUS1010,department:Business
+studentId:8525,course:BUS1010,department:Business
+studentId:7402,course:SCI1010,department:Arts and Sciences
+studentId:4545,course:ENG1010,department:Engineering
+studentId:3568,course:ENG1010,department:Engineering
+studentId:5010,course:BUS1010,department:Business
+studentId:9539,course:SCI1010,department:Arts and Sciences
+studentId:2018,course:SCI1010,department:Arts and Sciences
+studentId:2447,course:BUS1010,department:Business
+studentId:3905,course:ENG1010,department:Engineering
+studentId:10577,course:ENG1010,department:Engineering
+studentId:5935,course:BUS1010,department:Business
+studentId:4204,course:SCI1010,department:Arts and Sciences
+studentId:10115,course:SCI1010,department:Arts and Sciences
+studentId:4315,course:ENG1010,department:Engineering
+studentId:3402,course:ENG1010,department:Engineering
+studentId:9179,course:SCI1010,department:Arts and Sciences
+studentId:7326,course:SCI1010,department:Arts and Sciences
+studentId:10103,course:BUS1010,department:Business
+studentId:5847,course:ENG1010,department:Engineering
+studentId:2105,course:ENG1010,department:Engineering
+studentId:4772,course:SCI1010,department:Arts and Sciences
+studentId:8325,course:ENG1010,department:Engineering
+studentId:5124,course:BUS1010,department:Business
+studentId:2565,course:SCI1010,department:Arts and Sciences
+studentId:3643,course:ENG1010,department:Engineering
+studentId:4051,course:BUS1010,department:Business
+studentId:1681,course:SCI1010,department:Arts and Sciences
+studentId:10774,course:BUS1010,department:Business
+studentId:10743,course:SCI1010,department:Arts and Sciences
+studentId:7216,course:ENG1010,department:Engineering
+studentId:1753,course:BUS1010,department:Business
+studentId:7138,course:ENG1010,department:Engineering
+studentId:9977,course:BUS1010,department:Business
+studentId:5113,course:BUS1010,department:Business
+studentId:5264,course:ENG1010,department:Engineering
+studentId:8662,course:BUS1010,department:Business
+studentId:1704,course:ENG1010,department:Engineering
+studentId:8896,course:BUS1010,department:Business
+studentId:8857,course:SCI1010,department:Arts and Sciences
+studentId:2125,course:BUS1010,department:Business
+studentId:7632,course:ENG1010,department:Engineering
+studentId:4206,course:SCI1010,department:Arts and Sciences
+studentId:4041,course:ENG1010,department:Engineering
+studentId:7870,course:SCI1010,department:Arts and Sciences
+studentId:3968,course:ENG1010,department:Engineering
+studentId:2753,course:SCI1010,department:Arts and Sciences
+studentId:2431,course:SCI1010,department:Arts and Sciences
+studentId:6133,course:BUS1010,department:Business
+studentId:4186,course:ENG1010,department:Engineering
+studentId:2051,course:BUS1010,department:Business
+studentId:8277,course:ENG1010,department:Engineering
+studentId:7559,course:BUS1010,department:Business
+studentId:4564,course:BUS1010,department:Business
+studentId:4217,course:SCI1010,department:Arts and Sciences
+studentId:2219,course:BUS1010,department:Business
+studentId:4106,course:ENG1010,department:Engineering
+studentId:2992,course:SCI1010,department:Arts and Sciences
+studentId:8520,course:SCI1010,department:Arts and Sciences
+studentId:6934,course:SCI1010,department:Arts and Sciences
+studentId:7789,course:SCI1010,department:Arts and Sciences
+studentId:3038,course:BUS1010,department:Business
+studentId:1766,course:SCI1010,department:Arts and Sciences
+studentId:9718,course:SCI1010,department:Arts and Sciences
+studentId:8968,course:ENG1010,department:Engineering
+studentId:7879,course:SCI1010,department:Arts and Sciences
+studentId:1834,course:BUS1010,department:Business
+studentId:1890,course:BUS1010,department:Business
+studentId:10933,course:ENG1010,department:Engineering
+studentId:5705,course:ENG1010,department:Engineering
+studentId:4535,course:SCI1010,department:Arts and Sciences
+studentId:7274,course:ENG1010,department:Engineering
+studentId:5143,course:BUS1010,department:Business
+studentId:5653,course:ENG1010,department:Engineering
+studentId:10230,course:ENG1010,department:Engineering
+studentId:9669,course:ENG1010,department:Engineering
+studentId:4903,course:ENG1010,department:Engineering
+studentId:9242,course:SCI1010,department:Arts and Sciences
+studentId:9368,course:SCI1010,department:Arts and Sciences
+studentId:5053,course:SCI1010,department:Arts and Sciences
+studentId:9540,course:SCI1010,department:Arts and Sciences
+studentId:5003,course:BUS1010,department:Business
+studentId:3781,course:BUS1010,department:Business
+studentId:2583,course:BUS1010,department:Business
+studentId:6821,course:ENG1010,department:Engineering
+studentId:4915,course:SCI1010,department:Arts and Sciences
+studentId:4076,course:BUS1010,department:Business
+studentId:7420,course:SCI1010,department:Arts and Sciences
+studentId:9802,course:ENG1010,department:Engineering
+studentId:6734,course:SCI1010,department:Arts and Sciences
+studentId:4935,course:ENG1010,department:Engineering
+studentId:6529,course:BUS1010,department:Business
+studentId:7313,course:BUS1010,department:Business
+studentId:3706,course:ENG1010,department:Engineering
+studentId:1907,course:BUS1010,department:Business
+studentId:7542,course:SCI1010,department:Arts and Sciences
+studentId:1203,course:ENG1010,department:Engineering
+studentId:2495,course:SCI1010,department:Arts and Sciences
+studentId:7455,course:ENG1010,department:Engineering
+studentId:7109,course:SCI1010,department:Arts and Sciences
+studentId:6224,course:SCI1010,department:Arts and Sciences
+studentId:5727,course:BUS1010,department:Business
+studentId:4843,course:BUS1010,department:Business
+studentId:8060,course:ENG1010,department:Engineering
+studentId:3439,course:ENG1010,department:Engineering
+studentId:3206,course:SCI1010,department:Arts and Sciences
+studentId:6174,course:ENG1010,department:Engineering
+studentId:2149,course:ENG1010,department:Engineering
+studentId:1609,course:BUS1010,department:Business
+studentId:9780,course:ENG1010,department:Engineering
+studentId:7133,course:BUS1010,department:Business
+studentId:3299,course:BUS1010,department:Business
+studentId:8288,course:BUS1010,department:Business
+studentId:5151,course:SCI1010,department:Arts and Sciences
+studentId:4694,course:SCI1010,department:Arts and Sciences
+studentId:3902,course:SCI1010,department:Arts and Sciences
+studentId:8625,course:BUS1010,department:Business
+studentId:4132,course:BUS1010,department:Business
+studentId:7742,course:ENG1010,department:Engineering
+studentId:7907,course:ENG1010,department:Engineering
+studentId:6757,course:BUS1010,department:Business
+studentId:10431,course:SCI1010,department:Arts and Sciences
+studentId:9018,course:SCI1010,department:Arts and Sciences
+studentId:4603,course:BUS1010,department:Business
+studentId:9173,course:BUS1010,department:Business
+studentId:4504,course:SCI1010,department:Arts and Sciences
+studentId:1955,course:BUS1010,department:Business
+studentId:6282,course:ENG1010,department:Engineering
+studentId:2536,course:SCI1010,department:Arts and Sciences
+studentId:8381,course:ENG1010,department:Engineering
+studentId:2184,course:ENG1010,department:Engineering
+studentId:6857,course:SCI1010,department:Arts and Sciences
+studentId:2603,course:ENG1010,department:Engineering
+studentId:7050,course:ENG1010,department:Engineering
+studentId:2237,course:SCI1010,department:Arts and Sciences
+studentId:2022,course:SCI1010,department:Arts and Sciences
+studentId:10674,course:ENG1010,department:Engineering
+studentId:10242,course:ENG1010,department:Engineering
+studentId:6700,course:SCI1010,department:Arts and Sciences
+studentId:8437,course:BUS1010,department:Business
+studentId:5610,course:SCI1010,department:Arts and Sciences
+studentId:3012,course:SCI1010,department:Arts and Sciences
+studentId:6489,course:ENG1010,department:Engineering
+studentId:6629,course:BUS1010,department:Business
+studentId:1656,course:SCI1010,department:Arts and Sciences
+studentId:3995,course:BUS1010,department:Business
+studentId:6229,course:BUS1010,department:Business
+studentId:1869,course:ENG1010,department:Engineering
+studentId:7654,course:ENG1010,department:Engineering
+studentId:3845,course:BUS1010,department:Business
+studentId:5385,course:BUS1010,department:Business
+studentId:4782,course:BUS1010,department:Business
+studentId:8346,course:SCI1010,department:Arts and Sciences
+studentId:10880,course:BUS1010,department:Business

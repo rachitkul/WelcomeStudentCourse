@@ -1,1 +1,0 @@
-This project is for coming up with welcome course for a student based on department he enrolls to.
